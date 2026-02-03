@@ -27,7 +27,7 @@ const Home: React.FC = () => {
           <span className="text-brown font-bold tracking-[0.3em] uppercase text-sm mb-6 block animate-fade-in">
             Premium Indonesian Desserts
           </span>
-          <h1 className="text-5xl md:text-8xl font-display font-black text-white mb-6 leading-[1.1] tracking-tight animate-slide-up">
+          <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-display font-black text-white mb-6 leading-[1.1] tracking-tight animate-slide-up">
             Fudgy Brownies.<br />
             Viral Cookie Bombs.<br />
             <span className="text-brown">Pure Happiness.</span>
